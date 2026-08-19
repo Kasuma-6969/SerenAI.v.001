@@ -1,0 +1,40 @@
+#entorno virtual (no subir)
+serena_env/
+venv/
+env/
+
+#claves privadas (nunca subir)
+.env
+.env.local
+.env.production
+
+#archivo de python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+#memoria local de serena(datos personales)
+.serena_amiga/
+.serena_asistente/
+
+#audio generado
+audio/
+respuesta.mp3
+
+#IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+#sistema
+.DS_store
+thumbs.db
+desktop.ini
+
+#logs
+logs/
+*.log
