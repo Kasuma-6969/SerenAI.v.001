@@ -1,0 +1,11 @@
+chromadb==0.4.22
+sentence-transformers==2.2.2
+openai==1.6.1
+discord.py==2.3.2
+flask==3.0.0
+python-dotenv==1.0.0
+requests==2.31.0
+gtts
+pynacl
+colorama==0.4.6
+tqdm==4.66.1
