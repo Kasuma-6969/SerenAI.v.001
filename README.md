@@ -1,16 +1,16 @@
-# 🌸 Serena - Asistente Virtual
+# Serena - Asistente Virtual
 
 Asistente virtual femenina con memoria, voz y personalidad propia.
 
-## ✨ Características
+## Características
 
-- 💬 Chat por texto en Discord
-- 🎤 Voz natural (Edge TTS)
-- 🧠 Memoria a corto y largo plazo
-- 📚 Aprendizaje automático
-- 🔍 Búsqueda semántica de recuerdos
+- Chat por texto en Discord
+- Voz natural (Edge TTS)
+- Memoria a corto y largo plazo
+- Aprendizaje automático
+- Búsqueda semántica de recuerdos
 
-## 🚀 Instalación
+## Instalación
 
 1. Instalar Python 3.11
 2. Crear entorno virtual:
